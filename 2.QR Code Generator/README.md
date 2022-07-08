@@ -2,4 +2,4 @@
 
 | ScreenShot |
 |----------------:|
-| ![ScreenShot](assets/readme.png) |
+| <img src = "assets/readme.png" width="300" height="600" /> |
