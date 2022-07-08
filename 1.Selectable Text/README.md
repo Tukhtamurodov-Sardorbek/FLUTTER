@@ -2,4 +2,4 @@
 
 | ScreenShot |
 |----------------:|
-| ![Home](assets\readme.png) |
+| ![ScreenShot](assets\readme.png) |
