@@ -87,6 +87,7 @@ class _HomePageState extends State<HomePage> {
                 ? QrImage(
                     data: _qrData.text.trim(),
                     version: QrVersions.auto,
+                    foregroundColor: Colors.deepPurpleAccent,
                     size: 200.0,
                   )
                 : Container(
